@@ -13,7 +13,7 @@
   <img align="center" alt="fabio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ## Técnologias que utilizo no meu dia
+  ### Técnologias que utilizo no meu dia
  
 <div> 
 <a href="https://instagram.com/fabinschulz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,7 +22,7 @@
    <a href="https://wa.me/+5511943685632?text=Ol%C3%A1" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
   
-   ## Apaixonado por técnologia, games e universo.
+   #### Apaixonado por técnologia, games e universo.
 
  ![Snake animation](https://github.com/Fabinschulz/fabinschulz/blob/output/github-contribution-grid-snake.svg)
   
