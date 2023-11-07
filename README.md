@@ -1,4 +1,11 @@
-## Olá, Eu sou Fábio Lima!🖤
+## Olá, Eu sou Fábio Lima!
+
+- 👨‍💻 Desenvolvedor Full Stack Pleno.
+- 🚀 Tenho conhecimento em HTML, CSS, SASS, Tailwind CSS, Styled components, JavaScript, TypeScript, ReactJS, Next.js, C#, .NET, MAUI, RESTful API, MySQL, PostgreSQL, SQLite, Docker...
+- 📧 Contate-me por email: fabio.lima19997@gmail.com
+- 📲 Contate-me no whatsapp: (11) 94368-5632
+
+
 <div align="center">
   <a href="https://github.com/Fabinschulz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabinschulz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,6 +22,10 @@
   <img align="center" alt="fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fabio-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" height="40" alt=fabio-Docker"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img align="center" alt="fabio-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="fabio-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="fabio--PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
 </div>
   
   #
