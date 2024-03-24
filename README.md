@@ -1,7 +1,7 @@
 ## Olá, Eu sou Fábio Lima!
 
 - 👨‍💻 Desenvolvedor Full Stack Pleno.
-- 🚀 Experiência em HTML, CSS, SASS, Tailwind CSS, Styled components, NESTjs, NODEjs, QraphQL JavaScript, TypeScript, ReactJS, Next.js, C#, .NET, MAUI, RESTful API, SQL, Docker, SOLID, Clean code, Designers patters.
+- 🚀 Experiência em HTML, CSS, SASS, Tailwind CSS, Styled components, NESTjs, Nodejs, QraphQL, JavaScript, TypeScript, ReactJS, Next.js, C#, .NET, MAUI, RESTful API, SQL, Docker, SOLID, Clean code, Designers patters.
 - 📧 Contate-me por email: fabio.lima19997@gmail.com
 - 📲 Contate-me no whatsapp: (11) 94368-5632
 
