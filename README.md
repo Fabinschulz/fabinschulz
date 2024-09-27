@@ -5,12 +5,14 @@
 🚀 Minha stack de trabalho e estudos
 
 - Desenvolvimento backend utilizando **NESTjs**, **Node.js**, **C#**, **.NET**, **RESTful API**
-- Desenvolvimento frontend com **HTML**, **CSS**, **SASS**, **Tailwind CSS**, **Styled Components**, **JavaScript**, **TypeScript**, **ReactJS**, **React Native** e **Next.js**
+- Desenvolvimento frontend com **Angular,** **ReactJS** e **React Native**
 - Design de arquitetura para APIs **GraphQL** e sistemas **SQL**
 - Implementação de princípios de desenvolvimento como **TDD**, **DDD**, **SOLID**, **DRY**, **Clean Code** e **Design Patterns**
-- Experiência em cloud computing com **Azure** e **AWS**, além de infraestrutura como código (IAC) utilizando **Terraform**
-- Proficiente em **Docker** para containerização de aplicações e boas práticas de DevOps
+- Experiência em cloud computing com **Microsoft Azure** e **AWS**, além de infraestrutura como código (IAC) utilizando **Terraform**
+- DevOps - **Docker,** **Kubernets** e **Terraform**
+- CI/CD usando **GitActions,** **Azure DevOps** e **GitLab**
 
+### Contato
 - 📧 Contate-me por email: fabio.lima19997@gmail.com
 - 📲 Contate-me no whatsapp: (11) 94368-5632
 
