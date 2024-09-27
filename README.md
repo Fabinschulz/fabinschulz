@@ -2,7 +2,7 @@
 
 - 👨‍💻 Desenvolvedor Full Stack Pleno.
 
-🚀 Minha stack de trabalho e estudos
+### Minha stack de trabalho e estudos 🚀
 
 - Desenvolvimento backend utilizando **NESTjs**, **Node.js**, **C#**, **.NET**, **RESTful API**
 - Desenvolvimento frontend com **Angular,** **ReactJS** e **React Native**
