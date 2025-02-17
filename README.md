@@ -4,10 +4,10 @@
 
 ### Minha stack de trabalho e estudos 🚀
 
-- Desenvolvimento backend utilizando **NESTjs**, **Node.js**, **C#**, **.NET**, **RESTful API**
+- Desenvolvimento backend utilizando **NESTjs**, **Node.js**, **C#**, **.NET**, **RESTful API**, **OData**
 - Desenvolvimento frontend com **Angular,** **ReactJS** e **React Native**
 - Design de arquitetura para APIs **GraphQL** e sistemas **SQL**
-- Implementação de princípios de desenvolvimento como **TDD**, **DDD**, **SOLID**, **DRY**, **Clean Code** e **Design Patterns**
+- Implementação de princípios de desenvolvimento como **TDD**, **DDD**, **SOLID**, **DRY**, **KISS**, **Clean Code** e **Design Patterns**
 - Experiência em cloud computing com **Microsoft Azure** e **AWS**, além de infraestrutura como código (IAC) utilizando **Terraform**
 - DevOps - **Docker,** **Kubernets** e **Terraform**
 - CI/CD usando **GitActions,** **Azure DevOps** e **GitLab**
