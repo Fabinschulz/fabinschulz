@@ -1,6 +1,6 @@
 ## Olá, Eu sou Fábio Lima!
 
-- 👨‍💻 Desenvolvedor Full Stack Pleno.
+- 👨‍💻 Desenvolvedor Full Stack SR.
 
 ### Minha stack de trabalho e estudos 🚀
 
