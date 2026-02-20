@@ -2,12 +2,11 @@
 
 - 👨‍💻 Desenvolvedor Full Stack SR.
 
-### Minha stack de trabalho e estudos 🚀
+### Stacks de trabalho 🚀
 
-- Desenvolvimento backend utilizando **NESTjs**, **Node.js**, **C#**, **.NET**, **RESTful API**, **OData**
-- Desenvolvimento frontend com **Angular,** **ReactJS**
-- Desenvolvimento mobile com  **React Native** e **Flutter**
-- Design de arquitetura para APIs **GraphQL** e sistemas **SQL**
+- Desenvolvimento backend utilizando **Python**, **Node.js**, **C#**, **.NET**, **RESTful API**, **gRPC**
+- Desenvolvimento frontend com **Angular** e **React**
+- Desenvolvimento mobile com **React Native** e **Flutter**
 - Implementação de princípios de desenvolvimento como **TDD**, **DDD**, **SOLID**, **DRY**, **KISS**, **Clean Code** e **Design Patterns**
 - Experiência em cloud computing com **Microsoft Azure** e **AWS**, além de infraestrutura como código (IAC) utilizando **Terraform**
 - DevOps - **Docker,** **Kubernets** e **Terraform**
@@ -15,8 +14,6 @@
 
 ### Contato
 - 📧 Contate-me por email: fabio.lima19997@gmail.com
-- 📲 Contate-me no whatsapp: (11) 94368-5632
-
 
 <div align="center">
   <a href="https://github.com/Fabinschulz">
