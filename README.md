@@ -15,11 +15,11 @@
 ### Contato
 - 📧 Contate-me por email: fabio.lima19997@gmail.com
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Fabinschulz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabinschulz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabinschulz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
   
  ### Técnologias que utilizo no meu dia
 <div style="display: inline_block"><br>
