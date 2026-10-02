@@ -20,10 +20,13 @@ Agentes especializados com ferramentas restritas por papel, saída em contrato e
 independente. Exemplo: auditei 89 execuções reais dos meus agentes e corrigi na fonte um desvio de formato
 que o orquestrador não conseguia ler.
 
+→ Os padrões documentados: [**harness-engineering**](https://github.com/Fabinschulz/harness-engineering)
+
 ### Projetos
 
 | | |
 | --- | --- |
+| [**harness-engineering**](https://github.com/Fabinschulz/harness-engineering) | Padrões para operar agentes de IA de forma previsível e auditável: contratos, orçamento de contexto e evals |
 | [**EmpregaNet**](https://github.com/Fabinschulz/EmpregaNetAPI) | .NET 10 + Next.js 16 · Clean Architecture · 16 ADRs · harness de agentes com evals |
 | [**Synthra UI Kit**](https://github.com/Fabinschulz/synthra-components-library) | Design system em React sobre MUI |
 | [**devops-terraform-aws**](https://github.com/Fabinschulz/devops-terraform-aws) | Infraestrutura como código na AWS com Terraform |
